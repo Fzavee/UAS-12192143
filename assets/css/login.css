@@ -1,0 +1,17 @@
+body{
+	/**background: url(../ban.jpg); **/
+	background-repeat: no-repeat;
+}
+.kotak{
+	color: white;
+	background:rgba(0,0,0,0.4);
+}
+.form{
+	background:rgba(0,0,0,0.5); 
+	height: 300px; 
+	margin-top: 30px; 
+	padding-top: 10px;
+}
+.form-control{
+	width: 300px;
+}
